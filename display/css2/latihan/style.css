@@ -1,0 +1,72 @@
+/* h1, ul, h2, p{
+    background-color: #CCCCCC; */
+/* } */
+
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header h1{
+    text-align: center;
+}
+
+.wrap{
+    background-color: rgb(155, 235, 246);
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 18px;
+    
+}
+.ul li{
+    display: inline;
+}
+
+.header{    
+    margin-bottom: 160px;
+}
+
+.navbar{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+ul, li, a{
+    padding: 5px;
+}
+
+.konten{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.by{
+    padding-left: 24px;
+    padding-right: 24px;
+    color: rgba(17, 0, 255, 0.809);
+    font-size: 30px;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 18px;
+    
+}
+
+.main{
+    padding: 1px;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-box{
+    width: 10px;
+    height: 30px;
+    border: 2px solid red;
+}
+
+section img.bulet{
+    width: 250px;
+    height: 250px;
+    max-width: 250px;
+    border-radius: 100%;
+}

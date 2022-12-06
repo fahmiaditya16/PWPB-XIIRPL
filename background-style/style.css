@@ -1,0 +1,17 @@
+body{
+    background-color: coral;
+}
+.back-img{
+    background-image: url("../images.jpg");
+    width: 50%;
+    height: 50%;
+}
+
+.posisi{
+    background-image: url("../images.jpg");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
